@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1024429804665",
+    "firebase_url": "https://expensivo-750a5.firebaseio.com",
+    "project_id": "expensivo-750a5",
+    "storage_bucket": "expensivo-750a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024429804665:android:fa989bd1b689fcfa6c58a8",
+        "android_client_info": {
+          "package_name": "com.example.expensivoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024429804665-3c5hbop1ofc5hjbjdalp71mni9nnf14r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensivoo",
+            "certificate_hash": "8973cf75a645a7e1598c3085ce3daa829515fbcc"
+          }
+        },
+        {
+          "client_id": "1024429804665-6ftk0elo76m40ebbchlsll4a63pmbvn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9pfCpnTLgwSVcByU96teUYhyiHtLmhUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024429804665-6ftk0elo76m40ebbchlsll4a63pmbvn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96623167531",
+    "firebase_url": "https://expensivo-6b8a1.firebaseio.com",
+    "project_id": "expensivo-6b8a1",
+    "storage_bucket": "expensivo-6b8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96623167531:android:1d6c96743240f3e509c26e",
+        "android_client_info": {
+          "package_name": "com.example.expensivoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96623167531-gpnnjd0og9386235ibb3gk9d5hr9mac5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DIs0yvGsFpblgQxNKOoHRsdSxKKFc7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96623167531-gpnnjd0og9386235ibb3gk9d5hr9mac5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
